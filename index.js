@@ -1,3 +1,5 @@
+// TODO: Make it as a cli tool
+
 import config from "./config.json" assert { type: "json" };
 import publishVideo from "./publishVideo.js";
 
